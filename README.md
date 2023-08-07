@@ -6,12 +6,12 @@
 This project involves web scraping Ericsson's Facebook page (https://www.facebook.com/ericsson/?brand_redir=290266184368865) using the facebook_scraper module in Python. The collected data is then subjected to sentiment analysis using the vaderSentiment module to classify the posts as positive, negative, or neutral. The scraped data is then stored in an Excel file for further analysis.
 
 ## Table of Content
-Introduction
-Data Collection
-Sentiment Analysis
-Data Analysis with Tableau
-Visualizations and Insights
-Business Implications
+1. Introduction
+2. Data Collection
+3. Sentiment Analysis
+4. Data Analysis with Tableau
+5. Visualizations and Insights
+6. Business Implications
 
 ## Introduction
 Social media plays a vital role in understanding customer sentiment and engagement. In this project, we analyze Ericsson's Facebook page to gain insights into the performance of their posts and understand how customers are interacting with the content.
